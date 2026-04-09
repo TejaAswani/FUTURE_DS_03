@@ -74,13 +74,13 @@ This project analyzes the **marketing funnel performance** across channels to tr
 
 ## 🖥️ Terminal Output
 
-### 🔹 Dataset with Calculations
+### 🔹Original Dataset
 ![Output 1](output1.png)
 
-### 🔹 Channel-wise Summary
+### 🔹 Dataset with Calculations
 ![Output 2](output2.png)
 
-### 🔹 Final Insights & Conversion
+### 🔹Channel-wise Summary, Final Insights & Conversion
 ![Output 3](output3.png)
 
 ---
