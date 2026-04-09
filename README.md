@@ -94,16 +94,16 @@ python task_03.py
 ---
 ## 📂 Project Structure
 FUTURE_DS_03/
-│── task_03.py
-│── data.csv
-│── funnel.png
-│── visitor_to_lead.png
-│── lead_to_customer.png
-│── customer_distribution.png
-│── output1.png
-│── output2.png
-│── output3.png
-│── README.md
+├── task_03.py
+├── data.csv
+├── funnel.png
+├── visitor_to_lead.png
+├── lead_to_customer.png
+├── customer_distribution.png
+├── output1.png
+├── output2.png
+├── output3.png
+└── README.md
 ---
 ## 👨‍💻 Author
 
