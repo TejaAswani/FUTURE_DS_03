@@ -93,6 +93,8 @@ python task_03.py
 ```
 ---
 ## 📂 Project Structure
+
+```
 FUTURE_DS_03/
 ├── task_03.py
 ├── data.csv
@@ -104,6 +106,8 @@ FUTURE_DS_03/
 ├── output2.png
 ├── output3.png
 └── README.md
+```
+
 ---
 ## 👨‍💻 Author
 
